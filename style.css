@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+
+.container{
+    background-color: rgba(197, 44, 218, 0.562);
+    color:white;
+    border: 5px solid rgb(226, 38, 201) rgb(209, 26, 169);
+}
+
+#div{
+    background-color: rgb(13, 4, 94);
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 50%;
+}
+#link{
+    text-decoration: none;
+    color: white;
+    background-color: violet;
+    padding: 3px;
+    margin: 10px;
+}
